@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>課後習題</title>
+</head>
+<body style="background-color:darkcyan">
+    <h1 style="text-align:center">Calculate Power</h1>
+    <h1 style="background-color:powderblue;">課後習題</h1>
+   
+    <hr>
+    <p style="background-color:tomato; font-family:Noto Sans TC;">CH3 小試身手</p>
+
+    <p id="result"></p>
+
+    <script src = "0326.js"></script>
+
+    <hr>
+    <p style="background-color:tomato; font-family:Noto Sans TC;">CH4 小試身手</p>
+
+    <p id="result"></p>
+
+    <script src = "ch4.js"></script>
+
+    <hr>
+</body>
+</html>
